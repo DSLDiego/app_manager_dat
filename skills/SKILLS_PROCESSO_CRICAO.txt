@@ -1,0 +1,4 @@
+THINK → PLAN → BUILD → TEST → REVIEW → HARDEN → SHIP
+  ↓        ↓      ↓       ↓       ↓        ↓        ↓
+Clarify  Break  Write  Verify  Quality  Security  Deploy
+Goals    Down   Code   Output  Gates    Gates     Live

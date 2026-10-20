@@ -1,0 +1,11 @@
+{
+  "batch_id": "example_batch",
+  "template_id": 1,
+  "template_version_id": 1,
+  "template_version_number": 1,
+  "template_hash": "a10129bcf8e459f98ad5ca9b64eff0ef6e5d8d613861824e7395f8ebda78495a",
+  "n_files": 10,
+  "start_external_id": 1,
+  "exported_at": "2026-10-17T23:13:04.880376",
+  "batch_meta": {}
+}

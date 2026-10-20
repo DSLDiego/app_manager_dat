@@ -1,0 +1,12 @@
+{
+  "description": "Especificações de distribuição para o examples/template.dat",
+  "specs": {
+    "1": { "provider": "scipy", "name": "norm", "params": { "loc": 300.0, "scale": 40.0 } },
+    "2": { "provider": "scipy", "name": "uniform", "params": { "loc": 50.0, "scale": 150.0 } },
+    "3": { "provider": "scipy", "name": "triang", "params": { "c": 0.5, "loc": 10.0, "scale": 60.0 } },
+    "4": { "provider": "fixed", "name": "value", "params": { "value": 2024 } }
+  },
+  "strategy": "lhs",
+  "n_experiments": 10,
+  "seed": 42
+}

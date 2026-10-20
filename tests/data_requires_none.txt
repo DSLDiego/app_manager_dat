@@ -1,0 +1,3 @@
+PySide6>=6.6
+# comentario
+numpy>=1.26

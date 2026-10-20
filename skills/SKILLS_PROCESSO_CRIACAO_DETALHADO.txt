@@ -1,0 +1,54 @@
+=> Think — Before You Code
+Skill: Description
+think-before-coding: Surface assumptions, manage confusion, prevent hallucination
+goal-driven-execution: Transform tasks into verifiable goals with success criteria
+idea-to-spec: Convert vague ideas into concrete, testable specifications
+
+=> Plan — Break It Down
+Skill: Description
+task-decomposition: Break features into atomic, independently verifiable tasks
+context-loading: Load minimum necessary context; avoid token bloat
+multi-agent-orchestration: Design and coordinate multi-agent pipelines
+
+=> Build — Write Production Code
+Skill: Description
+incremental-coding: Build in verifiable increments; never big-bang rewrites
+simplicity-first: Minimum code that solves the problem — nothing speculative
+surgical-changes: Touch only what you must; leave the rest untouched
+api-design: Design stable, versioned, self-documenting APIs
+frontend-engineering: Accessible, performant, responsive UI patterns
+rag-and-memory: Retrieval-Augmented Generation and agent memory patterns
+
+=> Test — Prove It Works
+Skill: Description
+test-driven-development: Red-green-refactor with meaningful coverage
+debugging-methodology: Systematic root cause analysis; never guess-and-check
+integration-testing: Test real system boundaries, not mocks of mocks
+ai-output-validation: Validate, parse, and sanitize AI-generated outputs
+
+=> Review — Quality Gates
+Skill: Description
+code-review: Structured review checklist; correctness over style
+performance-optimization: Measure first, optimize second; no premature optimization
+refactoring: Safe, behavior-preserving transformation with tests
+documentation: Document decisions, not just implementations
+
+=> Harden — Security & Reliability
+Skill: Description
+security-hardening: OWASP Top 10, secrets management, least privilege
+prompt-injection-defense: Guard AI agents against prompt injection attacks
+hallucination-prevention: Detect and mitigate LLM hallucinations in pipelines
+error-handling: Graceful degradation and meaningful error messages
+observability: Structured logging, tracing, and alerting for AI systems
+
+=> Ship — Deploy with Confidence
+Skill: Description
+production-deployment: Zero-downtime deploys with rollback plans
+ci-cd-pipelines: Automated quality gates from commit to production
+git-workflow: Trunk-based development, atomic commits, clean history
+
+=> Everyday — Productivity Skills
+Skill: Description
+code-explanation: Get clear, layered explanations of unfamiliar code
+meeting-notes-to-tasks: Convert meeting notes into structured action items
+research-and-summarize: Distill complex topics into actionable summaries

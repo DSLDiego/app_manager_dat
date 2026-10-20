@@ -1,0 +1,51 @@
+id,created_at,level,category,action,destino,message
+50,2026-10-18T08:47:40.533365,INFO,USAGE,sampling.done,,40 exps salvos em batch_20261018_084740
+49,2026-10-18T08:47:40.451238,INFO,USAGE,sampling.run,,"40 exps, monte_carlo"
+48,2026-10-18T08:47:08.799200,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+47,2026-10-17T23:10:47.903440,INFO,AUDIT,export.done,batch_20261017_231041\v1,10 .dats em batch_20261017_231041\v1
+46,2026-10-17T23:10:41.238763,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_231041
+45,2026-10-17T23:10:41.158690,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+44,2026-10-17T23:10:38.328943,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+43,2026-10-17T23:09:51.582034,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_230951
+42,2026-10-17T23:09:51.540903,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+41,2026-10-17T23:09:49.334007,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+40,2026-10-17T23:09:14.086474,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_230914
+39,2026-10-17T23:09:14.014347,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+38,2026-10-17T23:09:10.942612,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+37,2026-10-17T22:54:40.925923,INFO,AUDIT,study.created,,teste
+36,2026-10-17T22:53:10.027637,INFO,USAGE,sampling.done,,16 exps salvos em batch_20261017_225309
+35,2026-10-17T22:53:09.975503,INFO,USAGE,sampling.run,,"16 exps, monte_carlo"
+34,2026-10-17T22:53:01.835914,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+33,2026-10-17T22:48:16.195396,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_224816
+32,2026-10-17T22:48:16.154475,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+31,2026-10-17T21:56:17.351263,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+30,2026-10-17T21:52:14.098088,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_215214
+29,2026-10-17T21:52:14.061630,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+28,2026-10-17T21:51:53.389887,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+27,2026-10-17T21:51:41.936991,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+26,2026-10-17T21:51:36.045846,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+25,2026-10-17T21:51:33.754235,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+24,2026-10-17T21:50:33.342334,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_215033
+23,2026-10-17T21:50:33.286021,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+22,2026-10-17T21:50:28.815037,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+21,2026-10-17T21:50:16.474979,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_215016
+20,2026-10-17T21:50:16.435482,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+19,2026-10-17T21:49:46.769841,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (2 lotes)
+18,2026-10-17T21:35:15.724963,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_213515
+17,2026-10-17T21:35:15.560893,INFO,USAGE,sampling.run,,"10 exps, sobol"
+16,2026-10-17T21:34:49.798787,INFO,USAGE,sampling.done,,45 exps salvos em batch_20261017_213449
+15,2026-10-17T21:34:49.585438,INFO,USAGE,sampling.run,,"45 exps, monte_carlo"
+14,2026-10-17T21:34:29.625171,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (1 lotes)
+13,2026-10-17T21:33:24.838457,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_213324
+12,2026-10-17T21:33:24.795916,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+11,2026-10-17T21:33:20.683215,INFO,AUDIT,experiments.clear,,todos os experimentos apagados (5 lotes)
+10,2026-10-17T19:59:29.371697,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_195929
+9,2026-10-17T19:59:29.306234,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+8,2026-10-17T19:57:28.579951,INFO,USAGE,sampling.done,,13 exps salvos em batch_20261017_195728
+7,2026-10-17T19:57:28.239498,INFO,USAGE,sampling.run,,"13 exps, monte_carlo"
+6,2026-10-17T18:52:06.889956,INFO,USAGE,sampling.done,,100 exps salvos em batch_20261017_185206
+5,2026-10-17T18:52:06.860821,INFO,USAGE,sampling.run,,"100 exps, monte_carlo"
+4,2026-10-17T18:49:43.319170,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_184943
+3,2026-10-17T18:49:43.293270,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
+2,2026-10-17T18:49:30.280103,INFO,USAGE,sampling.done,,10 exps salvos em batch_20261017_184930
+1,2026-10-17T18:49:30.246919,INFO,USAGE,sampling.run,,"10 exps, monte_carlo"
